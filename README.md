@@ -8,4 +8,5 @@ This program will install custom mods into Gorilla Tag automatically, and can be
 The program currently supports
 
 BepInEx by The BepInEx Team
+
 ![Gorilla Cosmetics by Bobbie](https://github.com/legoandmars/GorillaCosmetics)
